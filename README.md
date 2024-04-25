@@ -7,8 +7,8 @@ It is a base modal. it has only necessary packages & styles to work properly in 
 # Install required packages
 
 ```bash
-    pnpm install
-    npx expo start
+pnpm install
+npx expo start
 ```
 
 # packages required to work properly
